@@ -7,7 +7,7 @@ In order to replicate the results you must enable Google Drive in your Coolab an
 
 ## Results
 
-### Spacy:
+**Spacy:**
 
 TP: 2572 
 TN: 0 
@@ -15,14 +15,14 @@ FP: 232
 FN: 463,
 Acc: 0.7872666054484236
 
-'Polyglot': 
+**Polyglot**
 TP: 1736 
 TN: 0 
 FP: 181 
 FN: 1299
-'Ac': 0.5398009950248757
+Acc: 0.5398009950248757
 
-'Pavlov': 
+**Pavlov**
 TP: 2762 
 TN: 0 
 FP: 120 
