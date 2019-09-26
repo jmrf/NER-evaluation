@@ -1,4 +1,4 @@
-#  NER-Evaluation README
+#  README
 
 ## How to run
 First of all to make it run faster you can enable the GPU runtime.
@@ -7,24 +7,12 @@ In order to replicate the results you must enable Google Drive in your Coolab an
 
 ## Results
 
-**Spacy:**
-TP: 2572 
-TN: 0 
-FP: 232 
-FN: 463,
-Acc: 0.7872666054484236
+The following results were obtained with the `expanded.txt` input.
 
-**Polyglot**
-TP: 1736 
-TN: 0 
-FP: 181 
-FN: 1299
-Acc: 0.5398009950248757
+|   | TP | TN | FP | FN | ACC |
+|---|----|----|----|----|-----|
+|**Spacy**|2572 | 0|232|463|0.78726|
+|**Polyglot**|1736 | 0|181|1299|0.53980|
+|**Pavlov**|2762 | 0|120|273|**_0.87543_**|
 
-**Pavlov**
-TP: 2762 
-TN: 0 
-FP: 120 
-FN: 273,
-Acc: 0.875435816164817
 
