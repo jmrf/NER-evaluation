@@ -8,7 +8,6 @@ In order to replicate the results you must enable Google Drive in your Coolab an
 ## Results
 
 **Spacy:**
-
 TP: 2572 
 TN: 0 
 FP: 232 
