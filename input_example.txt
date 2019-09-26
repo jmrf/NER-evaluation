@@ -1,0 +1,8 @@
+('Is Africa in your catalogue', ['Is', 'Africa', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Africa'])
+('Is Asia in your catalogue', ['Is', 'Asia', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Asia'])
+('Is Aus in your catalogue', ['Is', 'Aus', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Aus'])
+('Is Australia in your catalogue', ['Is', 'Australia', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Australia'])
+('Is Europe in your catalogue', ['Is', 'Europe', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Europe'])
+('Is Latin in your catalogue', ['Is', 'Latin', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['Latin'])
+('Is North in your catalogue', ['Is', 'North', 'in', 'your', 'catalogue'], ['O', 'LOC', 'O', 'O', 'O'], ['North'])
+('Is Costa Rica in your catalogue', ['Is', 'Costa', 'Rica', 'in', 'your', 'catalogue'], ['O', 'LOC','LOC', 'O', 'O', 'O'], ['Costa', 'Rica'])
